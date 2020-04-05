@@ -23,4 +23,3 @@ Alexa, ask "nonsmoker", "how many days it's been since I quite"
 4. Lastly, we’ll walk through the steps of customizing your skill to your needs.
 
 [ADDITIONAL RESOURCES](https://bit.ly/alexaskill)
-
