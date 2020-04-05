@@ -12,14 +12,12 @@ Alexa, ask "“Invocation Name", "intent"  e.g.
 Alexa, ask "nonsmoker", "how many days it's been since I quite"
 ```
 
-### Notes Building skill steps
+### Building Alexa Skill steps
 
-1. First we’re going to copy the “Hello, World!” code into Amazon Lambda, which will be responsible for running the code.
+1. First  copy the “Hello, World!” code into Amazon Lambda, which will be responsible for running the code.
 
-2. Next we’re going to set up our skill in the Amazon Alexa Skills Developer Portal, and link our lambda account to that skill.
+2. Next set up our skill in the Amazon Alexa Skills Developer Portal, and link our lambda account to that skill.
 
-3. Then we’re going to test using the Amazon service simulator and on an Alexa-enabled device.
+3. Then test using the Amazon service simulator and on an Alexa-enabled device.
 
-4. Lastly, we’ll walk through the steps of customizing your skill to your needs.
-
-[ADDITIONAL RESOURCES](https://bit.ly/alexaskill)
+Also can be done via GUI in AWS console.
